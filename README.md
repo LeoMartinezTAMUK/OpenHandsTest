@@ -11,7 +11,14 @@ The Python implementation is located in `[file_name]`.
 ## Java Implementation
 
 The Java implementation is located in `Adder.java`.
-## C++ Implementation\n\nThe C++ implementation is located in `adder.cpp`.\n\n## Contributing
+
+
+
+## C++ Implementation
+
+The C++ implementation is located in `adder.cpp`.
+
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
